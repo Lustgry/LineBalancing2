@@ -24,7 +24,7 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 
 # --- JUDUL ---
-st.title("📱Line Balancing Calculator")
+st.title("Line Balancing Calculator")
 st.markdown("Aplikasi optimasi lintasan produksi dengan AI Assistant.")
 st.divider()
 
